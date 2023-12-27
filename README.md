@@ -7,7 +7,7 @@ The Simple Shell is a basic command-line shell implemented in C. It provides use
 This simple shell project is a result of the collaboration Elmahdi Ratil and Younes Belaouad at ALX-SE Programme.
 
 - [Elmahdi Ratil](mailto:elmahdiratildev@gmail.com)
-- [Younes Belaouad,](mailto:belaouadyounes13@gmail.com)
+- [Younes Belaouad](mailto:belaouadyounes13@gmail.com)
 
 ## Features
 
